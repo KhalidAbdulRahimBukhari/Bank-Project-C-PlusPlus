@@ -1,0 +1,2 @@
+C:\C++ Files\Project 2\x64\Debug\Project 2.exe
+C:\C++ Files\Cource 11 full source\x64\Debug\Cource 11 full source.exe

@@ -1,0 +1,31 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project 2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Project 2.cpp
+C:\C++ Files\Cource 11 full source\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\C++ Files\Cource 11 full source\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\C++ Files\Cource 11 full source\clsString.h(60,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\C++ Files\Cource 11 full source\clsString.h(197,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\C++ Files\Cource 11 full source\clsString.h(333,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\C++ Files\Cource 11 full source\clsString.h(381,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\C++ Files\Cource 11 full source\clsUtil.h(64,1): warning C4102: 'defualt': unreferenced label
+C:\C++ Files\Cource 11 full source\clsUser.h(189,5): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\C++ Files\Cource 11 full source\clsUser.h(24): message : see declaration of 'clsUser::stLoginRegisterRecord'
+C:\C++ Files\Cource 11 full source\clsBankClient.h(207,5): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\C++ Files\Cource 11 full source\clsBankClient.h(152): message : see declaration of 'clsBankClient::stTrnsferLogRecord'
+C:\C++ Files\Cource 11 full source\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\C++ Files\Cource 11 full source\clsBankClient.h(162,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\C++ Files\Cource 11 full source\clsBankClient.h(163,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\C++ Files\Cource 11 full source\clsBankClient.h(164,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\C++ Files\Cource 11 full source\clsBankClient.h(421,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\C++ Files\Cource 11 full source\clsBankClient.h(434,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\C++ Files\Cource 11 full source\clsAddNewClientScreen.h(30,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\C++ Files\Cource 11 full source\clsUpdateClientScreen.h(47,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\C++ Files\Cource 11 full source\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\C++ Files\Cource 11 full source\clsTransferScreen.h(42,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\C++ Files\Cource 11 full source\clsTransferScreen.h(47,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\C++ Files\Cource 11 full source\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\C++ Files\Cource 11 full source\clsUpdateCurrencyRateScreen.h(17,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\C++ Files\Cource 11 full source\clsCurrencyCalcualtorScreen.h(17,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\C++ Files\Cource 11 full source\clsBankClient.h(376): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\C++ Files\Cource 11 full source\clsBankClient.h(438): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+C:\C++ Files\Cource 11 full source\clsUser.h(346): warning C4715: 'clsUser::Save': not all control paths return a value
+  Project 2.vcxproj -> C:\C++ Files\Cource 11 full source\x64\Debug\Cource 11 full source.exe
